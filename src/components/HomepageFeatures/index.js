@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Reference',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
         C DocsではC言語に定義されている関数、マクロ、整数定数式などを日本語で説明しています。また、C言語の規格ごとに作成してあるので、お使いのCの環境に合わせたものが見つかります。
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Explains Parameters, Return Values, Explanations',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
         C Docsでは関数の戻り値、関数の概要、必要な引数、マクロや整数定数式であれば値の説明や用途などが詳しく書かれています。
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Supports the Search Function',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
         上の検索欄から、お探しの関数やマクロがすぐに見つかる検索バーを設置。探したいものがすぐ見つかります。

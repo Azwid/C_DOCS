@@ -44,6 +44,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           //editUrl:
           //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          showLastUpdateTime: true
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -73,6 +74,8 @@ const config = {
             label: 'Intro',
           },
         ],
+        hideOnScroll: false,
+        style: "dark",
       },
       footer: {
         style: 'dark',
@@ -115,6 +118,12 @@ const config = {
         theme: prismThemes.vsLight,
         darkTheme: prismThemes.vsDark,
       },
+      docs: {
+        sidebar: {
+          autoCollapseCategories: true,
+          hideable: true,
+        }
+      }
     }),
 };
 
