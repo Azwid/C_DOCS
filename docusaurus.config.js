@@ -23,9 +23,6 @@ const config = {
   organizationName: 'Azwid', // Usually your GitHub org/user name.
   projectName: 'C_DOCS', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-
   trailingSlash: false,
 
   // Even if you don't use internationalization, you can use this field to set
