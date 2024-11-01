@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/introduce">
+            to="https://azwid.github.io/C_DOC/docs/introduce">
             紹介ページを見る - 5 min
           </Link>
         </div>
