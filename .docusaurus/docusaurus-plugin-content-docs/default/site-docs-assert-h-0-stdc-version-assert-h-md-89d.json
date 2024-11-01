@@ -1,0 +1,23 @@
+{
+  "id": "assert.h/STDC_VERSION_ASSERT_H__",
+  "title": "__STDC_VERSION_ASSERT_H__",
+  "description": "STDC_VERSION_ASSERT_Hは整数定数式であり、次の値で表されます。",
+  "source": "@site/docs/assert.h/0__STDC_VERSION_ASSERT_H__.md",
+  "sourceDirName": "assert.h",
+  "slug": "/__STDC_VERSION_ASSERT_H__",
+  "permalink": "/C_DOCS/docs/__STDC_VERSION_ASSERT_H__",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "__STDC_VERSION_ASSERT_H__",
+    "slug": "/__STDC_VERSION_ASSERT_H__"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/C_DOCS/docs/introduce"
+  }
+}

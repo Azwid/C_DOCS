@@ -1,0 +1,38 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/C_DOCS/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/C_DOCS/docs",
+          "mainDocId": "introduce",
+          "docs": [
+            {
+              "id": "C23/assert.h/STDC_VERSION_ASSERT_H__",
+              "path": "/C_DOCS/docs/C23/assert.h/__STDC_VERSION_ASSERT_H__",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduce",
+              "path": "/C_DOCS/docs/introduce",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/C_DOCS/docs/introduce",
+                "label": "introduce"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

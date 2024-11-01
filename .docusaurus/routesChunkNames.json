@@ -1,0 +1,80 @@
+{
+  "/C_DOCS/__docusaurus/debug-eef": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---c-docs-docusaurus-debugb-38-4d6"
+    }
+  },
+  "/C_DOCS/__docusaurus/debug/config-c8a": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---c-docs-docusaurus-debugb-38-4d6"
+    }
+  },
+  "/C_DOCS/__docusaurus/debug/content-c2f": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---c-docs-docusaurus-debugb-38-4d6"
+    },
+    "__props": "__props---c-docs-docusaurus-debug-contentbd-4-eac"
+  },
+  "/C_DOCS/__docusaurus/debug/globalData-d24": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---c-docs-docusaurus-debugb-38-4d6"
+    }
+  },
+  "/C_DOCS/__docusaurus/debug/metadata-c06": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---c-docs-docusaurus-debugb-38-4d6"
+    }
+  },
+  "/C_DOCS/__docusaurus/debug/registry-5a3": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---c-docs-docusaurus-debugb-38-4d6"
+    }
+  },
+  "/C_DOCS/__docusaurus/debug/routes-08a": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---c-docs-docusaurus-debugb-38-4d6"
+    }
+  },
+  "/C_DOCS/markdown-page-429": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---c-docs-markdown-pagea-74-8d5"
+    },
+    "content": "content---c-docs-markdown-page-393-f69"
+  },
+  "/C_DOCS/docs-1dd": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---c-docs-docsaba-458"
+    }
+  },
+  "/C_DOCS/docs-d21": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---c-docs-docsf-77-9d4"
+  },
+  "/C_DOCS/docs-90b": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/C_DOCS/docs/C23/assert.h/__STDC_VERSION_ASSERT_H__-3fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---c-docs-docs-stdc-version-assert-h-b-19-70e"
+  },
+  "/C_DOCS/docs/introduce-69c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---c-docs-docs-introducee-2-f-876"
+  },
+  "/C_DOCS/-8a5": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---c-docs-markdown-pagea-74-8d5"
+    },
+    "config": "config---c-docs-5-e-9-f3b"
+  }
+}

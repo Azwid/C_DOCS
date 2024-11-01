@@ -1,0 +1,23 @@
+{
+  "id": "introduce",
+  "title": "Introduction",
+  "description": "ようこそ！ここはC言語の関数、マクロ、整数定数式などを日本語で解説するページです。関数であれば、引数や戻り値、関数の仕様の詳細をまとめています。",
+  "source": "@site/docs/introduce.md",
+  "sourceDirName": ".",
+  "slug": "/introduce",
+  "permalink": "/C_DOCS/docs/introduce",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "__STDC_VERSION_ASSERT_H__",
+    "permalink": "/C_DOCS/docs/C23/assert.h/__STDC_VERSION_ASSERT_H__"
+  }
+}
