@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            C Docs Tutorial - 5 min
+            紹介ページを見る - 5 min
           </Link>
         </div>
       </div>
@@ -32,7 +32,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Get started`}
+      title={`Welcome`}
       description="">
       <HomepageHeader />
       <main>

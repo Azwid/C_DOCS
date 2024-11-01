@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'The C Docs',
   tagline: 'The C is one of most famous programming language over the world.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/c_logo.svg',
 
   // Set the production url of your site here
   url: 'https://azwid.github.com/',
@@ -55,16 +55,18 @@ const config = {
     ],
   ],
 
+
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/c_logo.svg',
       navbar: {
         title: 'C Docs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/c_logo.svg',
         },
         items: [
           {
