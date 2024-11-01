@@ -7,7 +7,7 @@ sidebar_position: 0
 ようこそ！ここはC言語の関数、マクロ、整数定数式などを日本語で解説するページです。関数であれば、引数や戻り値、関数の仕様の詳細をまとめています。
 
 :::info
-時期は未定ですが、他のC言語規格のレファレンスを作成する予定です。現在はC23規格を[n3220.pdf(open-std.org)]([open-std.orgのn3220.pdf](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3220.pdf))をもとに作成しています。
+時期は未定ですが、他のC言語規格のレファレンスを作成する予定です。現在はC23規格を[n3220.pdf(open-std.org)](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3220.pdf)をもとに作成しています。
 :::
 
 今すぐどのようなものか試してみたい場合は、左のメニュー(スマートフォンの場合は左上)から**C23→stdio.h→printf**の順番に選んでみましょう。
